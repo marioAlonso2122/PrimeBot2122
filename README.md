@@ -1,4 +1,4 @@
-# Proyecto Robot Seguidor de Líneas - PrimeBot2122 por Mario Alonso Pulgar
+# Proyecto Robot Seguidor de Líneas - PrimeBot2122
 
 ## Descripción
 El proyecto `PrimeBot2122` tiene como objetivo diseñar y construir un robot basado en Arduino que pueda seguir líneas, resolver cuadrículas y laberintos de manera autónoma.
