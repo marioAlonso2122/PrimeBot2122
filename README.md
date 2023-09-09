@@ -22,19 +22,32 @@ El proyecto `PrimeBot2122` tiene como objetivo diseñar y construir un robot bas
 - 4x Ruedas Solarbotics RW2i.
 - 1x Chasis realizado en impresión 3D.
 
-## Backlog del Proyecto
+## Backlog y Progreso del Proyecto (09/09/2023)
 
 Este proyecto se va a desarrollar basado en la metodología SCRUM dividiendo el proyecto en 8 sprints diferentes con una duración aproximada de 2 semanas por sprint.
-La distribución de los Sprints será:
+### Diseño, Montaje e Integración de Motores
+▰▰▰▰▰▱▱▱▱▱ 50%
 
-- Diseño, Montaje e Integración de Motores
-- Integración de Sensores Infrarrojo y Desarrollo Inicial del Seguimiento de Línea
-- Perfeccionamiento del Seguimiento de Línea y Pruebas
-- Resolución de Cuadrículas y Pruebas
-- Integración de Sensores de Ultrasonido e Inicio de Resolución de Laberintos
-- Perfeccionamiento de la Resolución de Laberintos y Pruebas
-- Ajustes finales y Optimización
-- Documentación, revisión final y entrega del proyecto
+### Integración de Sensores Infrarrojo y Desarrollo Inicial del Seguimiento de Línea
+▱▱▱▱▱▱▱▱▱▱ 0%
+
+### Perfeccionamiento del Seguimiento de Línea y Pruebas
+▱▱▱▱▱▱▱▱▱▱ 0%
+
+### Resolución de Cuadrículas y Pruebas
+▱▱▱▱▱▱▱▱▱▱ 0%
+
+### Integración de Sensores de Ultrasonido e Inicio de Resolución de Laberintos
+▱▱▱▱▱▱▱▱▱▱ 0%
+
+### Perfeccionamiento de la Resolución de Laberintos y Pruebas
+▱▱▱▱▱▱▱▱▱▱ 0%
+
+### Ajustes finales y Optimización
+▱▱▱▱▱▱▱▱▱▱ 0%
+
+### Documentación, revisión final y entrega del proyecto
+▱▱▱▱▱▱▱▱▱▱ 0%
 
 ## Contribuciones
 
